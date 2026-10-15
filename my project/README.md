@@ -1,7 +1,7 @@
 # Terminal Navigation Task
 
 ## About
-This project demonstrates basic terminal navigation and file management commands.
+This project demonstrates basic terminal navigation and file management commands in terminals.
 
 ## Skills Practiced
 - Navigating directories
@@ -13,6 +13,3 @@ This project demonstrates basic terminal navigation and file management commands
 ## Tools Used
 - Vs Code
 - Terminal (PowerShell)
-
-## Author
-Michael Yugi
