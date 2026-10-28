@@ -1,51 +1,36 @@
 # Terminal Command Log
 
-## Exercise 2: Create Project Structure
+## Task 5.2: File Operations
 
-### Command 1
+Practised file and directory operations using Git Bash.
 
-```bash
-pwd
-```
+Commands used:
 
-**Purpose:** Displays the current working directory.
+* `touch` — created a new file.
+* `cat` — displayed file contents.
+* `cp` — copied a file.
+* `mv` — moved and renamed files and directories.
+* `rm` — deleted a file.
+* `cp -r` — copied a directory and its contents.
+* `mkdir` — created an empty directory.
+* `rmdir` — removed an empty directory.
+* `rm -r` — removed a directory containing files.
+* `ls -R` — displayed the project directory structure.
 
-### Command 2
+## Task 5.3: Useful Terminal Commands
 
-```bash
-ls
-```
+1. **Number of HTML files:** [Enter the number returned by the command.]
+2. **Files containing "contact":** [List the matching files, or state that no matches were found.]
+3. **Number of CSS lines:** [Enter the number returned by the command.]
+4. **Last 10 terminal commands:** Retrieved using `history 10`.
 
-**Purpose:** Lists files and folders in the current directory.
+## Task 5.4: Shell Script Basics
 
-### Command 3
+Created and executed a Bash script to automate project setup.
 
-```bash
-mkdir -p my-project/src/css my-project/src/js my-project/src/images my-project/docs
-```
+* `touch new-project.sh` — created the script file.
+* `chmod +x new-project.sh` — made the script executable.
+* `./new-project.sh practice-app` — executed the script to create the practice project.
+* `bash new-project.sh test-project` — tested the script with another project name.
+* `ls -R test-project` — verified the generated folder structure.
 
-**Purpose:** Creates the main project folder and its nested directories.
-
-### Command 4
-
-```bash
-touch my-project/README.md
-```
-
-**Purpose:** Creates the README.md file inside the my-project directory.
-
-### Command 5
-
-```bash
-ls -R my-project
-```
-
-**Purpose:** Displays the project folder structure recursively.
-
-### Command 6
-
-```bash
-touch terminal-log.md
-```
-
-**Purpose:** Creates the terminal-log.md file in the repository root.
