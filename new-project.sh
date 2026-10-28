@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
 # Creates a new project with a standard structure
@@ -20,4 +19,3 @@ touch "$PROJECT_NAME"/src/js/main.js
 echo "# $PROJECT_NAME" > "$PROJECT_NAME"/README.md
 
 echo "Project $PROJECT_NAME created successfully!"
-```
