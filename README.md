@@ -1,10 +1,10 @@
-# michael yugi - Week 03 Project
+# Michael Yugi - Week 03 Project
 
 Brief description of your project and what you learned this week.
 
 ## Live Demo
 
-[View Live Site](https://yourusername.github.io/iyf-s12-week-03-yourusername)
+[View Live Site](https://michael-yugi.github.io/iyf-s12-week-01-michaelyugi/)
 
 ## Screenshot
 
