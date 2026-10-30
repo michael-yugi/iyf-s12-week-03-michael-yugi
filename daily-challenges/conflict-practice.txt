@@ -1,0 +1,3 @@
+Git Merge Conflict Practice
+
+This file is used to practise resolving merge conflicts.
