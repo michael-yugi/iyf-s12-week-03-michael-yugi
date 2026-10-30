@@ -102,7 +102,3 @@ https://github.com/michael-yugi/iyf-s12-week-03-pair-michaelyugi
 * **GitHub:** [@michael-yugi](https://github.com/michael-yugi)
 * **LinkedIn:** [Michael Yugi](https://www.linkedin.com/in/michael%20yugi/)
 * **X:** [@michaelyugi1](https://x.com/michaelyugi1)
-
-## 📄 License
-
-This project is created for educational purposes as part of the IYF Season 12 Web Development course.
