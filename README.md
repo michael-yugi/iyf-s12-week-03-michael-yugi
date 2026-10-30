@@ -83,16 +83,19 @@ I overcame these challenges through practice, troubleshooting and following the 
 
 ## 🤝 Collaboration and Git Workflow
 
-**Individual Repository:**
-[Week 03 Repository](https://github.com/michael-yugi/iyf-s12-week-03-michaelyugi)
+## Collaboration
 
-**Pull Request Created and Merged:**
-[View Pull Request #1](https://github.com/michael-yugi/iyf-s12-week-03-michaelyugi/pull/1)
+I practised GitHub collaboration using a pair repository. I learned how to create pull requests, review another contributor's work, merge changes and resolve merge conflicts.
 
-**Merge Conflict Resolution:**
-[View Conflict Resolution Commit](https://github.com/michael-yugi/iyf-s12-week-03-michaelyugi/commit/58afa2a)
+**Pair Repository:**
+https://github.com/michael-yugi/iyf-s12-week-03-pair-michaelyugi
 
-I practised creating feature branches, committing changes, opening pull requests, merging branches, resolving merge conflicts and deleting completed branches.
+**Collaboration Evidence:**
+
+* **PR I opened:** https://github.com/michael-yugi/iyf-s12-week-03-pair-michaelyugi/pull/4
+* **PR I reviewed:** https://github.com/michael-yugi/iyf-s12-week-03-pair-michaelyugi/pull/3
+* **Merge-conflict PR:** https://github.com/michael-yugi/iyf-s12-week-03-pair-michaelyugi/pull/1
+
 
 ## 📬 Contact
 
