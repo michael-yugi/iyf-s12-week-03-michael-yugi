@@ -99,6 +99,10 @@ https://github.com/michael-yugi/iyf-s12-week-03-pair-michaelyugi
 
 ## 📬 Contact
 
-* **GitHub:** [@michael-yugi](https://github.com/michael-yugi)
-* **LinkedIn:** [Michael Yugi](https://www.linkedin.com/in/michael%20yugi/)
-* **X:** [@michaelyugi1](https://x.com/michaelyugi1)
+## 📫 Contact Me
+
+* 📧 Email: [michaelyugi598@gmail.com](mailto:michaelyugi598@gmail.com)
+* 💻 GitHub: [michael-yugi](https://github.com/michael-yugi)
+* 💼 LinkedIn: [Michael Yugi](https://www.linkedin.com/in/michael%20yugi/)
+* 🐦 X: [@michaelyugi1](https://x.com/michaelyugi1)
+
