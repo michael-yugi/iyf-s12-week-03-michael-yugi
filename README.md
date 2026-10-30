@@ -1,65 +1,105 @@
-# Michael Yugi - Week 03 Project
+# Michael Yugi – Week 03 Project
 
-Brief description of your project and what you learned this week.
+Welcome to my Week 03 Web Development project! This repository contains my personal portfolio website and practical exercises completed while learning HTML, CSS, Git and GitHub.
 
-## Live Demo
+## 🌐 Live Demo
 
-[View Live Site](https://michael-yugi.github.io/iyf-s12-week-01-michaelyugi/)
+[View My Live Portfolio](https://michael-yugi.github.io/iyf-s12-week-03-michaelyugi/)
 
-## Screenshot
+## ✨ Features
 
-![Project Screenshot](./images/screenshot.png)
+* Responsive portfolio design.
+* Multiple HTML pages.
+* About Me section.
+* Projects section.
+* Contact page and form.
+* Styled layouts using CSS Flexbox and Grid.
+* Daily coding challenges.
+* Git and GitHub workflow practice.
 
-## Features
+## 🛠️ Technologies Used
 
-- ✅ Responsive design
-- ✅ Accessible (WCAG compliant)
-- ✅ Multi-page layout
-- ✅ Contact form
+* HTML5
+* CSS3
+* Git
+* GitHub
+* Bash
+* Visual Studio Code
 
-## Technologies Used
+## 📁 Project Structure
 
-- HTML5
-- CSS3 (Flexbox, Grid)
-- Git & GitHub
-
-## Project Structure
-
-\`\`\`
-iyf-s12-week-03-yourusername/
+```text
+iyf-s12-week-03-michaelyugi/
+│
 ├── index.html
 ├── about.html
-├── projects.html
 ├── contact.html
-├── css/
-│   └── styles.css
-└── images/
-\`\`\`
+├── projects-grid.html
+├── box-model-practice.html
+├── magazine-layout.html
+├── styles.css
+├── new-project.sh
+├── terminal-log.md
+│
+├── daily-challenges/
+├── my-project/
+├── practice-app/
+└── test-project/
+```
 
-## What I Learned
+## 📚 What I Learned
 
-Describe key lessons from building this project.
+During Week 03, I gained practical experience in:
 
-## Future Improvements
+* Using Git commands to manage projects.
+* Creating and switching between Git branches.
+* Writing meaningful commit messages.
+* Creating and merging pull requests.
+* Resolving merge conflicts manually.
+* Using `.gitignore` to exclude unnecessary files.
+* Writing Bash scripts to automate project setup.
+* Using terminal commands to find and inspect files.
+* Publishing websites using GitHub Pages.
 
-- [ ] Add JavaScript interactivity
-- [ ] Implement dark mode
-- [ ] Add project filtering
+## ⚠️ Challenges Faced
 
-## Contact
+Some of the challenges I encountered included:
 
-- Email: your@email.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+* Understanding Git branching and merging.
+* Resolving merge conflicts when two branches modified the same file.
+* Synchronising local and remote repositories.
+* Organising project files and folders.
+* Configuring GitHub Pages for deployment.
 
-## Collaboration
+I overcame these challenges through practice, troubleshooting and following the Git workflow step by step.
 
-- **Partner:** [@partner](https://github.com/partner)
-- **Pair repo:** https://github.com/...
-- **PR I opened:** https://github.com/.../pull/N
-- **PR I reviewed:** https://github.com/.../pull/N
-- **Merge-conflict PR:** https://github.com/.../pull/N
+## 🚀 Future Improvements
 
-## License
+* Add more JavaScript interactivity.
+* Improve website animations.
+* Implement dark mode.
+* Add more projects to my portfolio.
+* Improve the contact form functionality.
 
-This project is open source and available under the [MIT License](LICENSE).
+## 🤝 Collaboration and Git Workflow
+
+**Individual Repository:**
+[Week 03 Repository](https://github.com/michael-yugi/iyf-s12-week-03-michaelyugi)
+
+**Pull Request Created and Merged:**
+[View Pull Request #1](https://github.com/michael-yugi/iyf-s12-week-03-michaelyugi/pull/1)
+
+**Merge Conflict Resolution:**
+[View Conflict Resolution Commit](https://github.com/michael-yugi/iyf-s12-week-03-michaelyugi/commit/58afa2a)
+
+I practised creating feature branches, committing changes, opening pull requests, merging branches, resolving merge conflicts and deleting completed branches.
+
+## 📬 Contact
+
+* **GitHub:** [@michael-yugi](https://github.com/michael-yugi)
+* **LinkedIn:** [Michael Yugi](https://www.linkedin.com/in/michael%20yugi/)
+* **X:** [@michaelyugi1](https://x.com/michaelyugi1)
+
+## 📄 License
+
+This project is created for educational purposes as part of the IYF Season 12 Web Development course.
