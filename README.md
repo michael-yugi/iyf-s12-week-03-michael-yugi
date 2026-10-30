@@ -88,7 +88,7 @@ I overcame these challenges through practice, troubleshooting and following the 
 I practised GitHub collaboration using a pair repository. I learned how to create pull requests, review another contributor's work, merge changes and resolve merge conflicts.
 
 **Pair Repository:**
-https://github.com/michael-yugi/iyf-s12-week-03-pair-michaelyugi
+https://github.com/michael-yugi/iyf-s12-week-03-pair-michael-yugi
 
 **Collaboration Evidence:**
 
